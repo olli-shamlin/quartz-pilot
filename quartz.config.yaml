@@ -280,4 +280,4 @@ layout:
       positions:
         right: []
     canvas: {}
-    bases: minimal
+    bases: {}
