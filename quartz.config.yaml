@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: olli-shamlin.github.io/quartz-pilot
+  baseUrl: olli-shamlin.github.io/quartz-pilot/content/index.html
   ignorePatterns:
     - private
     - templates
