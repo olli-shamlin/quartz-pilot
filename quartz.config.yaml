@@ -268,7 +268,7 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: minimal
+    content: {}}
     folder:
       exclude:
         - reader-mode
@@ -280,4 +280,4 @@ layout:
       positions:
         right: []
     canvas: {}
-    bases: {}
+    bases: minimal
