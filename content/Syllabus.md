@@ -41,49 +41,18 @@ How frequently do get stuck/confused/hesitant/uncertain/frustrated when doing th
 # Teaching Methods
 
 > [!note]
-> Help students understand your approach to teaching by explaining why you use the teaching methods you use (e.g., an explanation of why active participation is important for learning). Students who have never encountered the teaching practices that you use may misinterpret their intent. [^1]
+> Help students understand your approach to teaching by explaining why you use the teaching methods you use (e.g., an explanation of why active participation is important for learning). Students who have never encountered the teaching practices that you use may misinterpret their intent. 
 
-Help students understand your approach to teaching by explaining why you use the teaching methods you use (e.g., an explanation of why active participation is important for learning). Students who have never encountered the teaching practices that you use may misinterpret their intent.^[ref](app://obsidian.md/index.html#fn-1-818b58d2eb57f4b3)
+Help students understand your approach to teaching by explaining why you use the teaching methods you use (e.g., an explanation of why active participation is important for learning). Students who have never encountered the teaching practices that you use may misinterpret their intent.
 
 # Materials & Resources
 
 > [!note]
-> Required textbooks, supplies, devices, and any free or online resources students need to participate fully.[^2]
+> Required textbooks, supplies, devices, and any free or online resources students need to participate fully.
 
-Required textbooks, supplies, devices, and any free or online resources students need to participate fully.^[ref](app://obsidian.md/index.html#fn-2-818b58d2eb57f4b3)
-
-## From early draft
-- Bring Your Own Device (BYOD)
-- Handouts
-    - Lecture slideware
-        - my aim is to have handbook sections that relate to a lecture's topic/theme in place by the time of the lecture's session
-    - Demos
-- Handbook and
-    - Strategy / Best Practice Guides: _Maintaining Your Digital Garden_
-- Glossary
-- Recommended/Further Reading
-- Hands on -- (inspired by "getting the most from your mac" class)
-    - Basic scenarios with laptop, iPhone, iPad
-        - e.g. moving and resizing windows
-        - closing and app vs closing windows
-        - working with tabs in multiple apps (e.g., browser, finder, spreadsheet)
-        - basic browser features
-            - using history
-            - creating bookmarks, bookmark folders, favorites, moving bookmarks between folders, renaming, deleting
-        - basic finder features
-            - moving files between folders
-            - deleting files
-            - finding files
-            - renaming a file
-        - cut&paste / copy&paste, drag-n-drop
-- "Best practice" documents
+Required textbooks, supplies, devices, and any free or online resources students need to participate fully.
 
 # Policies
 
-- Policies intended to benefit student learning, like an attendance policy, may be perceived as punitive. Telling students that they will miss rich in-class discussions if they are not in attendance helps them directly connect the policy with learning.^[ref](app://obsidian.md/index.html#fn-3-818b58d2eb57f4b3)
+- Policies intended to benefit student learning, like an attendance policy, may be perceived as punitive. Telling students that they will miss rich in-class discussions if they are not in attendance helps them directly connect the policy with learning.
 
----
-
-^[1]: [Teaching + Learning Lab: Create a Syllabus](https://tll.mit.edu/teaching-resources/course-design/syllabus/)[↩︎](app://obsidian.md/index.html#fnref-1-818b58d2eb57f4b3)
-^[2]: [Education Copilot: How to Write a Syllabus](https://educationcopilot.com/how-to-write-a-syllabus/)[↩︎](app://obsidian.md/index.html#fnref-2-818b58d2eb57f4b3)
-^[3]: [Teaching + Learning Lab: Create a Syllabus](https://tll.mit.edu/teaching-resources/course-design/syllabus/)[↩︎](app://obsidian.md/index.html#fnref-3-818b58d2eb57f4b3)
