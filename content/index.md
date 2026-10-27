@@ -1,8 +1,8 @@
 ---
-title: Welcome to Quartz
+title: DESIG Oct 30 2026 Handouts
 draft: false
 tags:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is DAVID'S HOME PAGE.
+
