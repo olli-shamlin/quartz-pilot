@@ -6,3 +6,8 @@ tags:
 
 This is DAVID'S HOME PAGE.
 
+- [[Strawman Schedule]]
+- [[Syllabus]]
+- [[iPhone hands on skills inventory]]
+
+
