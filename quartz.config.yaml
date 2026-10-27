@@ -129,7 +129,7 @@ plugins:
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
-    enabled: true
+    enabled: false
     options:
       enableSiteMap: true
       enableRSS: true
