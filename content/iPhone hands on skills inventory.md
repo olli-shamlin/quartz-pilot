@@ -5,14 +5,14 @@ tags:
 ---
 # Key Concepts & UI Constructs
 
-- Lock Screen
-- Home Screen
-- Control Center
-- Notification Center
-- App Library
-- Spotlight
-- Settings: review of key differences between iPhone/iPad and Mac
-- App Sandbox
+1. Lock Screen
+2. Home Screen
+3. Control Center
+4. Notification Center
+5. App Library
+6. Spotlight
+7. Settings: review of key differences between iPhone/iPad and Mac
+8. App Sandbox
 # General
 
 1. You can turn your iPhone on and off.

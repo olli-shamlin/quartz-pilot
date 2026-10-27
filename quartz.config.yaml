@@ -148,7 +148,7 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 50
@@ -158,7 +158,7 @@ plugins:
       position: right
       priority: 10
   - source: "@quartz-community/search"
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 20
