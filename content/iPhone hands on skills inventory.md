@@ -3,7 +3,7 @@ title: iPhone "hands on" skills inventory
 draft: false
 tags:
 ---
-# Key Concepts & UI Constructs
+# 0. Key Concepts & UI Constructs
 
 1. Lock Screen
 2. Home Screen
@@ -13,7 +13,7 @@ tags:
 6. Spotlight
 7. Settings: review of key differences between iPhone/iPad and Mac
 8. App Sandbox
-# General
+# 1. General
 
 1. You can turn your iPhone on and off.
 	1. You can "force restart" your iPhone.
@@ -35,7 +35,7 @@ tags:
 	6. You can change the apps your iPhone uses by default when opening files and links
 	7. You can change the internet search engine your iPhone uses by default
 	8. You can personalize your Lock Screen by choosing a wallpaper, showcasing a favorite photo, changing the font of the time, adding widgets, etc. 
-# Managing WiFi and cellular network connections
+# 3. Managing WiFi and cellular network connections
 
 1. You can view and change your cellular data settings
 2. You can determine if your iPhone is connected to a cellular network
@@ -43,13 +43,13 @@ tags:
 4. You can determine if you iPhone is connected to a WiFi network
 5. You can turn your iPhone's WiFi connection on and off
 6. You know how to "tell" your iPhone to "remember" and "forget" a WiFi network
-# Managing storage
+# 4. Managing storage
 
 1. You can check storage (both local and iCloud)
 2. You can control when a file is saved to local storage or iCloud storage
 3. You can remove items to increase the amount of available storage
 4. You can offload (i.e., remove) apps (with or without retaining data they manage)
-# Accessing and managing apps
+# 5. Accessing and managing apps
 
 1. You can find apps you have downloaded/installed
 	1. Using the App Library
@@ -59,10 +59,10 @@ tags:
 5. You can find an apps settings
 6. You can access & use Quick Action menus
 7. You can rearrange app icons on your Home Screen
-# Search: finding things on your iPhone
+# 6. Search: finding things on your iPhone
 
 1. You can use Spotlight to find apps, files, messages (email and text), etc stored on your iPhone
-# Notifications
+# 7. Notifications
 
 1. You can change the sounds iPhone plays when you get a call, message, and alert.
 2. You can turn on/off vibrations (i.e., haptics)
@@ -73,7 +73,7 @@ tags:
 - Personalize your iPhone > Set up Focus, notifications, and Do Not Disturb
 	- Focus
 	- Do Not Disturb (I think I saw a mention that indicated there is a DND feature separate/distinct from Focus)
-# Working with text
+# 8. Working with text
 
 - Using the virtual keyboard
 	- Predictive text
@@ -85,7 +85,7 @@ tags:
 	- Draw and handwrite with Markup
 	- Add text, shapes, stickers, and more
 - Work with text and graphics > Fill out forms, sign documents, and create signatures
-# Select Apps (included with your iPhone; i.e., Apple apps)
+# 9. Select Apps (included with your iPhone; i.e., Apple apps)
 
 1. App Store
 2. Contacts
@@ -96,7 +96,7 @@ tags:
 7. Phone
 8. Safari
 9. Wallet
-# Security
+# 10. Security
 
 1. Protect access to your iPhone: setting up passcode, Face ID, and Touch ID
 2. Keep your Apple Account secures
@@ -106,7 +106,7 @@ tags:
 6. Use Stolen Device Protection
 7. Use Contact Key Verification 
 8. Use Impersonation Risk Detection
-# Privacy
+# 11. Privacy
 
 1. Control what you share
 2. Manage what you share with people and apps
@@ -123,12 +123,12 @@ tags:
 6. Use a private network address
 7. Turn on/off Lock Screen features
 8. Receive warnings about sensitive content
-# Backing up & restoring content
+# 13. Backing up & restoring content
 
 1. Back to & restore from iCloud
 2. Restore purchased apps and digital media you deleted
 
-# Not in scope / Can be revisited 
+# 14. Not in scope / Can be revisited 
 
 1. Managing your iPhone's battery
 2. Erase / "reset to factory settings"
