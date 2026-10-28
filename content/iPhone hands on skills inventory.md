@@ -3,7 +3,23 @@ title: iPhone "hands on" skills inventory
 draft: false
 tags:
 ---
+> [!note]
+> The outline on this page is my attempt to create an inventory of the things I think anyone/everyone would want/need to do when using an iPhone at some point.  I.e., this is an attempt to itemize the "essential" kinds of things anyone/everyone does.  And yes, it turns out to be a lot of things!
+> 
+> The primary question I am interested in your feedback on at this point is **how many of these things do you already consider yourself familiar with and comfortable doing?**
+> 
+> For our Oct 30 2026 meeting, we can limit our focus to sections 1 through 5 below; the other sections will likely benefit from some additional refinement by me and after I get initial feedback on sections 1 through 5.
+> 
+> So...as you look at the details of sections 1 through 5, ask yourself which of the following most closely describes your thought on each skill:
+> 
+> 1. I know how to do this; I don't need/want to spend much if any time drilling into it further in a meeting.
+> 2. I know what this is referring to but am uncertain about how to do it and would like to learn more.
+> 3. I don't understand what this item is referring to (never mind how to do it.)
+> 
 # 0. Key Concepts & UI Constructs
+
+> [!note]
+> I referenced a number of sources while pulling this inventory together and noticed recurring references to some things that likely need some contextual explanation; I am keeping track of those things in this section. 
 
 1. Lock Screen
 2. Home Screen
@@ -12,7 +28,7 @@ tags:
 5. App Library
 6. Spotlight
 7. Settings: review of key differences between iPhone/iPad and Mac
-8. App Sandbox
+8. App Sandbox -- pertains to how the iPhone (and iPad for that matter) manage files (and why/how that is different than how files are managed on Macs)
 # 1. General
 
 1. You can turn your iPhone on and off.
@@ -129,6 +145,9 @@ tags:
 2. Restore purchased apps and digital media you deleted
 
 # 14. Not in scope / Can be revisited 
+
+> [!note]
+> There are even more things you can do with your iPhone than are covered by the lists in the above sections!  Apple's iPhone User Guide also has chapters/sections that fall roughly into the following.  Once we have a plan for the all the items above, I am open to us considering revisiting things in the list below if there is interest. I just needed to draw an initial line somewhere given the number of items in the lists above.
 
 1. Managing your iPhone's battery
 2. Erase / "reset to factory settings"
