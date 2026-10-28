@@ -24,7 +24,7 @@ tags:
 6. You can use the "Screen Time" to review how you are spending time when using your iPhone
 7. You can sign in and out of your Apple account
 8. You can keep the version of software on your device (i.e., the OS and apps) up to date
-9. Picture in Picture (Basics > User your apps)
+9. Picture in Picture 
 10. You can create screenshots and/or record the screen
 11. Basic customizations
 	1. You can increase/decrease the size of text and other onscreen content
@@ -34,8 +34,7 @@ tags:
 	5. You can configure accounts the Mail, Contacts, and Calendar apps use
 	6. You can change the apps your iPhone uses by default when opening files and links
 	7. You can change the internet search engine your iPhone uses by default
-	8. You can personalize your Lock Screen by choosing a wallpaper, showcasing a favorite photo, changing the font of the time, adding widgets, etc. (Personalize your iPhone > Create a custom Lock Screen)
-		1. Basics > Access features from the Lock Screen
+	8. You can personalize your Lock Screen by choosing a wallpaper, showcasing a favorite photo, changing the font of the time, adding widgets, etc. 
 # Managing WiFi and cellular network connections
 
 1. You can view and change your cellular data settings
@@ -62,12 +61,12 @@ tags:
 7. You can rearrange app icons on your Home Screen
 # Search: finding things on your iPhone
 
-1. You can use Spotlight to find apps, files, messages (email and text), etc stored on your iPhone (Basics > Search on iPhone)
+1. You can use Spotlight to find apps, files, messages (email and text), etc stored on your iPhone
 # Notifications
 
 1. You can change the sounds iPhone plays when you get a call, message, and alert.
 2. You can turn on/off vibrations (i.e., haptics)
-3. find, view, dismiss, clear, respond (Basics > View and respond to notifications)
+3. find, view, dismiss, clear, respond 
 4. turn-off and mute *for an app*
 
 - You can "silence" your iPhone when you don't want to be disturbed/distracted by alerts/"chimes"/notifications
@@ -105,7 +104,7 @@ tags:
 4. Use Lockdown Mode
 5. Install Background Security Improvements
 6. Use Stolen Device Protection
-7. Use Contact Key Verification (**assume this is a mac and ipad thing as well, but spend a minute and check!**)
+7. Use Contact Key Verification 
 8. Use Impersonation Risk Detection
 # Privacy
 

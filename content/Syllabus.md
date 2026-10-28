@@ -26,9 +26,9 @@ How frequently do get stuck/confused/hesitant/uncertain/frustrated when doing th
 4. Digital Literacy
 # Outline (Scope)
 
-1. [[110-What is Digital Literacy?]]
-2. [[130-Data]]
-3. [[120-Laws of the Digital Domain]]
+1. [[110-What is Digital Literacy]]
+2. [[120-Laws of the Digital Domain]]
+3. [[130-Data]]
 4. Terminology
     - In addition to introducing you to foundational digital technology terms, the technical vernacular of software engineering reflects (arguably unique relative to consumer and business personas) the world view/ideology of the software industry
     - Geekspeak: In addition to terms, the "geek" pov is definitely different than "normal" people's pov; geeks have a particular--and I am arguing unique--world view
